@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/nphlong/DevOps%20Tutorial/_apis/build/status/nphlong.pipelines-java?branchName=main)](https://dev.azure.com/nphlong/DevOps%20Tutorial/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
