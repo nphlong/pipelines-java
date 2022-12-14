@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: 'DESKTOP-12HL1R8'
 
 steps:
 - task: Maven@3
